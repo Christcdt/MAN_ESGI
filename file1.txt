@@ -1,1 +1,2 @@
 c'est Fichier1.txt
+Nouvelle ligne
